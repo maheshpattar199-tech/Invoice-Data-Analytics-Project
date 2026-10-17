@@ -1,7 +1,7 @@
 # Invoice-Data-Analytics-Project
-End-to-End Invoice Analytics Project using Excel, MySQL, Python, and Power BI
-Invoice-Analytics-Project
-Project Overview
+## End-to-End Invoice Analytics Project using Excel, MySQL, Python, and Power BI
+# Invoice-Analytics-Project
+# Project Overview
 This project demonstrates an end-to-end Invoice Analytics solution using Excel, MySQL, Python, and Power BI. It covers the complete data analytics workflow from data preparation to interactive dashboard development.
 Objectives
 •	Design a relational database for invoice analytics.
