@@ -19,7 +19,7 @@
 •	Power BI
 •	DAX
 # Project Structure
-# Invoice-Analytics-Project │ ├── Dataset ├── Excel ├── SQL ├── Python ├── PowerBI ├── Documentation └── README.md
+# Invoice-Analytics-Project ── Dataset ── Excel ── SQL ── Python ── PowerBI ── Documentation ── README.md
 # Database Design
 # The project contains two relational tables:
 •	Header_Data
